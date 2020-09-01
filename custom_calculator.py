@@ -5,7 +5,7 @@ hourly = input("How much money do you make a hour?")
 print(f'${hourly} per hour')
 #We ask the user how many hours they work a week
 hours_per_week = input("How many hours a week do you work?")
-#Print that variable
+#Print that variable for weekly hours
 print(f'{hours_per_week} a week')
 
 #Do the calculation to find the annual pretax earnings
